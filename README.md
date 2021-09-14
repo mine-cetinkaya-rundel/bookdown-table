@@ -1,1 +1,1 @@
-Repo to support issue on bookdown repo for non-grid tables and footnotes.
+Repo to support issue on bookdown repo for non-grid tables and footnotes: https://github.com/rstudio/bookdown/issues/1255.
