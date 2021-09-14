@@ -1,0 +1,1 @@
+Repo to support issue on bookdown repo for non-grid tables and footnotes.

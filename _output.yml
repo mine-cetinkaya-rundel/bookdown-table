@@ -1,0 +1,4 @@
+bookdown::bs4_book:
+  theme:
+    primary: "#096B72"
+  repo: https://github.com/rstudio/bookdown-demo
